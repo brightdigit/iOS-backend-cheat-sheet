@@ -117,7 +117,7 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 ### Deployment Options
 - Virtual Machine Services (run Swift directly on Linux)
 - Container-based PaaS (using [Docker](https://www.docker.com) containers)
-- [AWS Lambda](https://aws.amazon.com/lambda/) (native Swift support)
+- [AWS Lambda _supports Swift_](https://github.com/swift-server/swift-aws-lambda-runtime)
 - [Heroku](https://www.heroku.com) (supports Swift buildpacks)
 
 ## Technical Considerations
