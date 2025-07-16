@@ -1,4 +1,14 @@
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109271234595934887?domain=https%3A%2F%2Fc.im&style=social)](https://c.im/@leogdion)
+[![BlueSky](https://img.shields.io/badge/BlueSky-BrightDigit-00A8E8?style=flat&logo=bluesky)](https://bsky.app/profile/brightdigit.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo%20Dion-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/leogdion)
+[![YouTube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCnl9gfE3nEFR_y4Mxt8N-mw?style=social)](https://www.youtube.com/@brightdigit)
+[![GitHub](https://img.shields.io/github/followers/leogdion?style=social)](https://github.com/leogdion)
+[![Website](https://img.shields.io/badge/Website-brightdigit.com-orange?style=flat)](https://brightdigit.com)
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/leogdion?style=social)](https://twitter.com/leogdion)
+
 # iOS Backend Selection Guide
+
+**Created by [BrightDigit](https://brightdigit.com) - iOS Development Experts**
 
 ## Decision Tree
 
@@ -170,6 +180,22 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 - Factor in developer time and expertise
 - Consider future scaling costs
 
+## About BrightDigit
+
+[BrightDigit](https://brightdigit.com) is a leading iOS development consultancy specializing in Swift development, backend architecture, and mobile app strategy. With years of experience helping companies build scalable iOS applications, we understand the critical importance of choosing the right backend architecture from the start.
+
+### Need Help Choosing Your iOS Backend?
+
+Our team can help you:
+- Evaluate backend options for your specific use case
+- Implement Swift on the server with Vapor or AWS Lambda
+- Migrate from one backend solution to another
+- Optimize your existing backend architecture
+
+📧 [Contact us for a consultation](https://brightdigit.com/contact)
+📰 [Subscribe to our newsletter](https://brightdigit.com/newsletter) for iOS development tips
+🎧 [Listen to our podcast](https://brightdigit.com/podcast) featuring iOS industry experts
+
 ## Further Reading
 
 ### Official Documentation
@@ -177,7 +203,43 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 - [Apple CloudKit Documentation](https://developer.apple.com/icloud/cloudkit/)
 - [Firebase Documentation](https://firebase.google.com/docs)
 
-### Related Articles and Episodes
-- [Choosing the Best Backend for your iOS App](https://brightdigit.com/articles/best-backend-for-your-ios-app/)
-- [Swift Server Side Serverless with Sébastien Stormacq](https://brightdigit.com/episodes/191-swift-server-side-serverless-with-sebastien-stormacq/)
-- [Backend Decisions with Mikaela Caron](https://brightdigit.com/episodes/127-backend-decisions-with-mikaela-caron/)
+### BrightDigit Resources
+
+**Featured Articles & Podcast Episodes:**
+- 📖 **[Choosing the Best Backend for your iOS App](https://brightdigit.com/articles/best-backend-for-your-ios-app/)** - Comprehensive guide to backend selection
+- 🎙️ **[Swift Server Side Serverless with Sébastien Stormacq](https://brightdigit.com/episodes/191-swift-server-side-serverless-with-sebastien-stormacq/)** - Deep dive into AWS Lambda with Swift
+- 🎙️ **[Backend Decisions with Mikaela Caron](https://brightdigit.com/episodes/127-backend-decisions-with-mikaela-caron/)** - Real-world backend selection strategies
+
+### Community Resources
+- [Server-Side Swift](https://swift.org/server/) - Official Swift server resources
+- [Vapor Discord](https://discord.gg/vapor) - Active community for Swift backend developers
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This means you are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to BrightDigit, provide a link to the license, and indicate if changes were made
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+- **Link Back** — Any use must include a link back to this original repository
+
+## Copyright
+
+© 2025 BrightDigit, LLC. All rights reserved.
+
+For questions about licensing or usage, contact us at [hello@brightdigit.com](mailto:hello@brightdigit.com)
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://brightdigit.com">BrightDigit</a><br>
+  <a href="https://brightdigit.com/newsletter">Subscribe to our Newsletter</a> • 
+  <a href="https://www.empowerapps.show">Listen to our Podcast</a> • 
+  <a href="https://twitter.com/leogdion">Follow us on X</a>
+</p>
