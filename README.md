@@ -15,6 +15,25 @@
 
 **Created by [BrightDigit](https://brightdigit.com)**
 
+## Table of Contents
+
+- [Decision Tree](#decision-tree)
+- [Do You Need a Backend?](#do-you-need-a-backend)
+- [Backend Options Overview](#backend-options-overview)
+  - [Local Storage](#local-storage)
+  - [CloudKit](#cloudkit)
+  - [Firebase](#firebase)
+  - [AWS Lambda](#aws-lambda)
+  - [Container-based PaaS](#container-based-paas-heroku-flyio-etc)
+  - [Virtual Machine Services](#virtual-machine-services)
+- [Swift on the Server Options](#swift-on-the-server-options)
+- [Technical Considerations](#technical-considerations)
+- [Deployment Considerations](#deployment-considerations)
+- [Cost Considerations](#cost-considerations)
+- [About BrightDigit](#about-brightdigit)
+- [Further Reading](#further-reading)
+- [License](#license)
+
 ## Decision Tree
 
 ```mermaid
@@ -242,7 +261,7 @@ Under the following terms:
 
 © 2025 BrightDigit, LLC. All rights reserved.
 
-For questions about licensing or usage, contact us at [hello@brightdigit.com](mailto:hello@brightdigit.com)
+For questions about licensing or usage, contact Leo at [leo@brightdigit.com](mailto:leo@brightdigit.com)
 
 ---
 
