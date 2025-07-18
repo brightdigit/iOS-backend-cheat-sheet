@@ -1,4 +1,38 @@
+[![Mastodon](https://img.shields.io/badge/Mastodon-Leo%20Dion-informational?style=flat-square&logo=mastodon&logoColor=white)](https://c.im/@leogdion)
+[![BlueSky](https://img.shields.io/badge/BlueSky-Leo%20Dion-00A8E8?style=flat-square&logo=bluesky)](https://bsky.app/profile/leogdion.bsky.social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo%20Dion-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leogdion)
+[![Twitter](https://img.shields.io/badge/@leogdion-informational?style=flat-square&logo=x&labelColor=grey)](https://x.com/leogdion)
+[![Website](https://img.shields.io/badge/brightdigit.com-orange?style=flat-square&logo=circle&labelColor=blue&logoColor=white)](https://brightdigit.com)
+[![Podcast](https://img.shields.io/badge/Listen-EmpowerApps-informational?style=flat-square&logo=apple-podcasts&logoColor=white)](https://www.empowerapps.show)
+
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnl3jF6GHAvlj1MZyb6Ka9g?style=for-the-badge&logo=YouTube&logoColor=ff0000&color=ff0000)](https://www.youtube.com/@brightdigit)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCnl3jF6GHAvlj1MZyb6Ka9g?style=for-the-badge&logo=YouTube&logoColor=ff0000&color=ff0000)](https://www.youtube.com/@brightdigit)
+[![GitHub followers](https://img.shields.io/github/followers/leogdion?style=for-the-badge&logo=github)](https://github.com/leogdion)
+[![Sponsor](https://img.shields.io/badge/Sponsor-BrightDigit-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/brightdigit)
+
+
 # iOS Backend Selection Guide
+
+**Created by [BrightDigit](https://brightdigit.com)**
+
+## Table of Contents
+
+- [Decision Tree](#decision-tree)
+- [Do You Need a Backend?](#do-you-need-a-backend)
+- [Backend Options Overview](#backend-options-overview)
+  - [Local Storage](#local-storage)
+  - [CloudKit](#cloudkit)
+  - [Firebase](#firebase)
+  - [AWS Lambda](#aws-lambda)
+  - [Container-based PaaS](#container-based-paas-heroku-flyio-etc)
+  - [Virtual Machine Services](#virtual-machine-services)
+- [Swift on the Server Options](#swift-on-the-server-options)
+- [Technical Considerations](#technical-considerations)
+- [Deployment Considerations](#deployment-considerations)
+- [Cost Considerations](#cost-considerations)
+- [About BrightDigit](#about-brightdigit)
+- [Further Reading](#further-reading)
+- [License](#license)
 
 ## Decision Tree
 
@@ -170,6 +204,26 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 - Factor in developer time and expertise
 - Consider future scaling costs
 
+## About BrightDigit
+
+### Expert in Swift App Development
+
+Founded in 2012, [BrightDigit](https://brightdigit.com) specializes in Swift and Apple platform development. We believe platform-native development delivers the best user experience, bringing deep technical expertise to help companies build exceptional apps for iOS, watchOS, and the entire Apple ecosystem.
+
+### How We Can Help
+
+From initial concept to complex development challenges, our team provides end-to-end support including:
+- Swift app development for all Apple platforms (iOS, watchOS, tvOS, macOS)
+- Swift on the server with Vapor, Hummingbird, and AWS Lambda serverless functions
+- Platform porting and Android to iOS app conversions
+- API development and third-party integrations
+- UI/UX design optimized for Apple's Human Interface Guidelines
+- Backend architecture selection and implementation
+
+📧 [Contact us for a consultation](https://brightdigit.com/contact)
+📰 [Subscribe to our newsletter](https://brightdigit.com/newsletter) for iOS development tips
+🎧 [Listen to our podcast](https://brightdigit.com/podcast) featuring iOS industry experts
+
 ## Further Reading
 
 ### Official Documentation
@@ -177,7 +231,40 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 - [Apple CloudKit Documentation](https://developer.apple.com/icloud/cloudkit/)
 - [Firebase Documentation](https://firebase.google.com/docs)
 
-### Related Articles and Episodes
-- [Choosing the Best Backend for your iOS App](https://brightdigit.com/articles/best-backend-for-your-ios-app/)
-- [Swift Server Side Serverless with Sébastien Stormacq](https://brightdigit.com/episodes/191-swift-server-side-serverless-with-sebastien-stormacq/)
-- [Backend Decisions with Mikaela Caron](https://brightdigit.com/episodes/127-backend-decisions-with-mikaela-caron/)
+### BrightDigit Resources
+
+**Featured Articles & Podcast Episodes:**
+- 📖 **[Choosing the Best Backend for your iOS App](https://brightdigit.com/articles/best-backend-for-your-ios-app/)** - Comprehensive guide to backend selection
+- 🎙️ **[Swift Server Side Serverless with Sébastien Stormacq](https://brightdigit.com/episodes/191-swift-server-side-serverless-with-sebastien-stormacq/)** - Deep dive into AWS Lambda with Swift
+- 🎙️ **[Backend Decisions with Mikaela Caron](https://brightdigit.com/episodes/127-backend-decisions-with-mikaela-caron/)** - Real-world backend selection strategies
+
+### Community Resources
+- [Server-Side Swift](https://swift.org/server/) - Official Swift server resources
+- [Vapor Discord](https://discord.gg/vapor) - Active community for Swift backend developers
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This means you are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to BrightDigit, provide a link to the license, and indicate if changes were made
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+- **Link Back** — Any use must include a link back to this original repository
+
+## Copyright
+
+© 2025 BrightDigit, LLC. All rights reserved.
+
+For questions about licensing or usage, contact Leo at [leo@brightdigit.com](mailto:leo@brightdigit.com)
+
+---
+
+Made with ❤️ by [BrightDigit](https://brightdigit.com)
+
+[Subscribe to our Newsletter](https://brightdigit.com/newsletter) • [Listen to our Podcast](https://www.empowerapps.show)
