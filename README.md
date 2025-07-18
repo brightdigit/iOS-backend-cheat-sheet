@@ -188,7 +188,7 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 
 ## About BrightDigit
 
-**Expert in Swift App Development**
+#### Expert in Swift App Development
 
 Founded in 2012, [BrightDigit](https://brightdigit.com) specializes in Swift and Apple platform development. We believe platform-native development delivers the best user experience, bringing deep technical expertise to help companies build exceptional apps for iOS, watchOS, and the entire Apple ecosystem.
 
