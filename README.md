@@ -1,3 +1,8 @@
+
+# iOS Backend Selection Guide
+
+**Created by [BrightDigit](https://brightdigit.com)**
+
 [![Mastodon](https://img.shields.io/badge/Mastodon-Leo%20Dion-informational?style=flat-square&logo=mastodon&logoColor=white)](https://c.im/@leogdion)
 [![BlueSky](https://img.shields.io/badge/BlueSky-Leo%20Dion-00A8E8?style=flat-square&logo=bluesky)](https://bsky.app/profile/leogdion.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo%20Dion-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leogdion)
@@ -11,10 +16,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/leogdion?style=for-the-badge&logo=github)](https://github.com/leogdion)
 [![Sponsor](https://img.shields.io/badge/Sponsor-BrightDigit-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/brightdigit)
-
-# iOS Backend Selection Guide
-
-**Created by [BrightDigit](https://brightdigit.com)**
 
 ## Decision Tree
 
@@ -188,7 +189,7 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 
 ## About BrightDigit
 
-#### Expert in Swift App Development
+### Expert in Swift App Development
 
 Founded in 2012, [BrightDigit](https://brightdigit.com) specializes in Swift and Apple platform development. We believe platform-native development delivers the best user experience, bringing deep technical expertise to help companies build exceptional apps for iOS, watchOS, and the entire Apple ecosystem.
 
@@ -247,9 +248,6 @@ For questions about licensing or usage, contact us at [hello@brightdigit.com](ma
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://brightdigit.com">BrightDigit</a><br>
-  <a href="https://brightdigit.com/newsletter">Subscribe to our Newsletter</a> • 
-  <a href="https://www.empowerapps.show">Listen to our Podcast</a> • 
-  <a href="https://twitter.com/leogdion">Follow us on X</a>
-</p>
+Made with ❤️ by [BrightDigit](https://brightdigit.com)
+
+[Subscribe to our Newsletter](https://brightdigit.com/newsletter) • [Listen to our Podcast](https://www.empowerapps.show)
