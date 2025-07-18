@@ -1,21 +1,19 @@
-
-# iOS Backend Selection Guide
-
-**Created by [BrightDigit](https://brightdigit.com)**
-
 [![Mastodon](https://img.shields.io/badge/Mastodon-Leo%20Dion-informational?style=flat-square&logo=mastodon&logoColor=white)](https://c.im/@leogdion)
 [![BlueSky](https://img.shields.io/badge/BlueSky-Leo%20Dion-00A8E8?style=flat-square&logo=bluesky)](https://bsky.app/profile/leogdion.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo%20Dion-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leogdion)
 [![Twitter](https://img.shields.io/badge/@leogdion-informational?style=flat-square&logo=x&labelColor=grey)](https://x.com/leogdion)
-
 [![Website](https://img.shields.io/badge/brightdigit.com-orange?style=flat-square&logo=circle&labelColor=blue&logoColor=white)](https://brightdigit.com)
 [![Podcast](https://img.shields.io/badge/Listen-EmpowerApps-informational?style=flat-square&logo=apple-podcasts&logoColor=white)](https://www.empowerapps.show)
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnl3jF6GHAvlj1MZyb6Ka9g?style=for-the-badge&logo=YouTube&logoColor=ff0000&color=ff0000)](https://www.youtube.com/@brightdigit)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCnl3jF6GHAvlj1MZyb6Ka9g?style=for-the-badge&logo=YouTube&logoColor=ff0000&color=ff0000)](https://www.youtube.com/@brightdigit)
-
 [![GitHub followers](https://img.shields.io/github/followers/leogdion?style=for-the-badge&logo=github)](https://github.com/leogdion)
 [![Sponsor](https://img.shields.io/badge/Sponsor-BrightDigit-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/brightdigit)
+
+
+# iOS Backend Selection Guide
+
+**Created by [BrightDigit](https://brightdigit.com)**
 
 ## Decision Tree
 
