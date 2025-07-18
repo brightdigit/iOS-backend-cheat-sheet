@@ -188,15 +188,19 @@ Swift can be used as a server-side language in multiple deployment scenarios:
 
 ## About BrightDigit
 
-[BrightDigit](https://brightdigit.com) is a leading iOS development consultancy specializing in Swift development, backend architecture, and mobile app strategy. With years of experience helping companies build scalable iOS applications, we understand the critical importance of choosing the right backend architecture from the start.
+**Expert in Swift App Development**
 
-### Need Help Choosing Your iOS Backend?
+Founded in 2012, [BrightDigit](https://brightdigit.com) specializes in Swift and Apple platform development. We believe platform-native development delivers the best user experience, bringing deep technical expertise to help companies build exceptional apps for iOS, watchOS, and the entire Apple ecosystem.
 
-Our team can help you:
-- Evaluate backend options for your specific use case
-- Implement Swift on the server with Vapor or AWS Lambda
-- Migrate from one backend solution to another
-- Optimize your existing backend architecture
+### How We Can Help
+
+From initial concept to complex development challenges, our team provides end-to-end support including:
+- Swift app development for all Apple platforms (iOS, watchOS, tvOS, macOS)
+- Swift on the server with Vapor, Hummingbird, and AWS Lambda serverless functions
+- Platform porting and Android to iOS app conversions
+- API development and third-party integrations
+- UI/UX design optimized for Apple's Human Interface Guidelines
+- Backend architecture selection and implementation
 
 📧 [Contact us for a consultation](https://brightdigit.com/contact)
 📰 [Subscribe to our newsletter](https://brightdigit.com/newsletter) for iOS development tips
