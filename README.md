@@ -15,6 +15,14 @@
 
 **Created by [BrightDigit](https://brightdigit.com)**
 
+Based on the article:
+***[Choosing the Best Backend for your iOS App](https://brightdigit.com/articles/best-backend-for-your-ios-app/)***
+
+
+![Podcast Link](https://img.shields.io/badge/ep%20202-podcast?style=for-the-badge&logo=applepodcasts&label=Backend%20Decisions%20with%20Mikaela%20Caron&color=blue)
+![YouTube Video Views](https://img.shields.io/youtube/views/_-k97s1ZPzE?style=for-the-badge&logo=YouTube&label=Backend%20Decisions%20with%20Mikaela%20Caron)
+
+
 ## Table of Contents
 
 - [Decision Tree](#decision-tree)
