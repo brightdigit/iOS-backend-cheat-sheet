@@ -73,14 +73,6 @@ graph TD
 
     K -->|Yes| P[Virtual Machine Service]
     K -->|No| N
-
-    subgraph Note
-        Z[Services marked with arrows can run Swift code<br/>Firebase scales from MVP to enterprise with GCP infrastructure]
-    end
-
-    Z -.-> N
-    Z -.-> O
-    Z -.-> P
 ```
 
 ## Do You Need a Backend?
