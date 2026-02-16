@@ -43,7 +43,7 @@ When editing the README.md:
 ## Branch Context
 
 - **main**: Production version of the guide
-- **2-firebase**: Current branch, likely adding or updating Firebase-related content
+- Feature branches follow the pattern: `<issue-number>-<topic>` for topic-specific updates
 
 ## Making Changes
 

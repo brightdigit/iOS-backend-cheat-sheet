@@ -62,7 +62,7 @@ graph TD
     F -->|Apple Only| K{Need Full Control?}
     F -->|Cross Platform| L{Data Structure?}
 
-    L -->|NoSQL/Firebase DataConnect| J
+    L -->|Firestore or DataConnect| J
     L -->|Relational Required| M{Load Pattern?}
 
     H -->|Constant| N[Container-based PaaS]
@@ -74,6 +74,8 @@ graph TD
     K -->|Yes| P[Virtual Machine Service]
     K -->|No| N
 ```
+
+> **Note:** Swift server-side frameworks (Vapor, Hummingbird) can be deployed on Container-based PaaS, AWS Lambda, and Virtual Machine Services. See [Swift on the Server Options](#swift-on-the-server-options) for details.
 
 ## Do You Need a Backend?
 Consider local storage first if:
@@ -105,7 +107,7 @@ Consider local storage first if:
 - Real-time database needs
 - MVP to enterprise-scale applications
 - Google Cloud Platform integration
-- Limited backend maintenance with enterprise support
+- Minimal maintenance requirements with full enterprise support
 
 **Key Features:**
 - 20+ Firebase products (Authentication, Cloud Firestore, Realtime Database, Cloud Functions, etc.)
@@ -113,7 +115,7 @@ Consider local storage first if:
 - Enterprise-ready infrastructure with 24/7/365 SRE support
 - Google Cloud SLAs and dedicated customer support for GCP customers
 - NoSQL databases (Firestore, Realtime Database) for flexible data structures
-- [Firebase DataConnect](https://firebase.google.com/products/data-connect) for relational data with PostgreSQL and GraphQL
+- [Firebase DataConnect](https://firebase.google.com/products/data-connect) for relational data with PostgreSQL and GraphQL (public preview as of early 2025)
 - CloudSQL integration for traditional SQL databases when needed
 
 ### [AWS Lambda](https://aws.amazon.com/lambda/)
