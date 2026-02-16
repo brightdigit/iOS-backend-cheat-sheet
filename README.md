@@ -49,29 +49,38 @@ graph TD
     A[Start] --> B{Need Cloud Storage?}
     B -->|No| C[Use Local Storage]
     B -->|Yes| D{Project Type?}
-    
+
     D -->|MVP| E{Data Complexity?}
-    D -->|Enterprise| F{Need Full Control?}
-    
+    D -->|Enterprise| F{Platform Support?}
+
     E -->|Simple| G{Platform Support?}
     E -->|Complex/Relational| H{Load Pattern?}
-    
+
     G -->|Apple Only| I[CloudKit]
     G -->|Cross Platform| J[Firebase]
-    
-    H -->|Constant| K[Container-based PaaS]
-    H -->|Sporadic| L[AWS Lambda]
-    
-    F -->|Yes| M[Virtual Machine Service]
-    F -->|No| K
+
+    F -->|Apple Only| K{Need Full Control?}
+    F -->|Cross Platform| L{Data Structure?}
+
+    L -->|NoSQL/Firebase DataConnect| J
+    L -->|Relational Required| M{Load Pattern?}
+
+    H -->|Constant| N[Container-based PaaS]
+    H -->|Sporadic| O[AWS Lambda]
+
+    M -->|Constant| N
+    M -->|Sporadic| O
+
+    K -->|Yes| P[Virtual Machine Service]
+    K -->|No| N
 
     subgraph Note
-        Z[Services marked with arrows can run Swift code]
+        Z[Services marked with arrows can run Swift code<br/>Firebase scales from MVP to enterprise with GCP infrastructure]
     end
 
-    Z -.-> K
-    Z -.-> L
-    Z -.-> M
+    Z -.-> N
+    Z -.-> O
+    Z -.-> P
 ```
 
 ## Do You Need a Backend?
@@ -100,11 +109,20 @@ Consider local storage first if:
 
 ### [Firebase](https://firebase.google.com)
 **Best for:**
-- Cross-platform development
+- Cross-platform development (iOS, Android, Web)
 - Real-time database needs
-- Simple query requirements
-- Quick MVP development
-- Limited backend maintenance
+- MVP to enterprise-scale applications
+- Google Cloud Platform integration
+- Limited backend maintenance with enterprise support
+
+**Key Features:**
+- 20+ Firebase products (Authentication, Cloud Firestore, Realtime Database, Cloud Functions, etc.)
+- Full Google Cloud Platform (GCP) integration - every Firebase project is a GCP project
+- Enterprise-ready infrastructure with 24/7/365 SRE support
+- Google Cloud SLAs and dedicated customer support for GCP customers
+- NoSQL databases (Firestore, Realtime Database) for flexible data structures
+- [Firebase DataConnect](https://firebase.google.com/products/data-connect) for relational data with PostgreSQL and GraphQL
+- CloudSQL integration for traditional SQL databases when needed
 
 ### [AWS Lambda](https://aws.amazon.com/lambda/)
 **Best for:**
